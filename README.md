@@ -6,13 +6,13 @@
 const Alo = {
   pronouns: "she" | "her",
   code: [Java, R, C, JavaScript, Dart], 
-  currentlyLearning: ["Python", "Agile Practices"],
+  currentlyLearning: ["Python", "PHP"],
   tools: ["Azure", "Flutter", "Adobe XD", "Miro", "Trello", "HTML5", "CSS3"],
   areas: ["Data Science", "Machine Learning", "Software Engineering", "UX/UI", "Cloud Computing"],
   databases: ["MySQL", "mongoDB", "Oracle"],
   OS: ["Linux", "Windows"], 
   languages: ["Spanish", "English", "German"], 
-  Pastimes: ["Learn languages", "Read all kinds of books", "Walk my dog", "Solve puzzles"]
+  Pastimes: ["Mystery and thriller podcast", "Read all kinds of books", "Walk my dog", "Solve puzzles", "Singing"]
 };
 ```
 
