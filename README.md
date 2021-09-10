@@ -5,8 +5,8 @@
 ```javascript
 const Alo = {
   pronouns: "she" | "her",
-  code: [Java, R, C, JavaScript, Dart], 
-  currentlyLearning: ["Python", "PHP"],
+  code: [Java, R, C, Dart], 
+  currentlyLearning: [Python, PHP],
   tools: ["Azure", "Flutter", "Adobe XD", "Miro", "Trello", "HTML5", "CSS3"],
   areas: ["Data Science", "Machine Learning", "Software Engineering", "UX/UI", "Cloud Computing"],
   databases: ["MySQL", "mongoDB", "Oracle"],
