@@ -5,11 +5,11 @@
 ```javascript
 const Alo = {
   pronouns: "she" | "her",
-  code: [Java, R, Python, C, Dart, PHP], 
-  currentlyLearning: [C#, Power BI],
-  tools: ["Azure", "Flutter", "Adobe XD", "Miro", "Trello", "HTML5", "CSS3"],
+  code: [Python, R, Java, C]
+  currentlyLearning: [Process improvement],
+  tools: ["Power BI", "Qlik Sense", "Azure", "Adobe XD", "Miro", "Trello"],
   areas: ["Data Science", "Machine Learning", "Software Engineering", "UX/UI", "Cloud Computing"],
-  databases: ["MySQL", "MongoDB", "Oracle"],
+  databases: ["SQL", "MySQL", "MongoDB", "Oracle"],
   OS: ["Linux", "Windows"], 
   languages: ["Spanish", "English", "German"], 
   Pastimes: ["Mystery and thriller podcast", "Read all kinds of books", "Walk my dog", "Solve puzzles", "Singing"]
