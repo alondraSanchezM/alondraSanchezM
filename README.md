@@ -5,8 +5,8 @@
 ```javascript
 const Alo = {
   pronouns: "she" | "her",
-  code: [Python, R, Java, C]
-  currentlyLearning: [Process improvement],
+  code: [Python, R, Java, C],
+  currentlyLearning: [Process Improvement],
   tools: ["Power BI", "Qlik Sense", "Azure", "Adobe XD", "Miro", "Trello"],
   areas: ["Data Science", "Machine Learning", "Software Engineering", "UX/UI", "Cloud Computing"],
   databases: ["SQL", "MySQL", "MongoDB", "Oracle"],
