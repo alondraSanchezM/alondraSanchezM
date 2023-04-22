@@ -6,7 +6,7 @@
 const Alo = {
   pronouns: "she" | "her",
   code: [Python, R, Java, C],
-  currentlyLearning: [Process Improvement],
+  currentlyLearning: [Alteryx, AWS, Hadoop, Kafka],
   tools: ["Power BI", "Qlik Sense", "Azure", "Adobe XD", "Miro", "Trello"],
   areas: ["Data Science", "Machine Learning", "Software Engineering", "UX/UI", "Cloud Computing"],
   databases: ["SQL", "MySQL", "MongoDB", "Oracle"],
